@@ -11,6 +11,7 @@
 import MHeader from '@/components/m-header/m-header'
 import Tab from '@/components/tab/tab'
 import Recommend from '@/components/recommend/recommend'
+//test
 export default {
   components: {
     MHeader,
