@@ -1,2 +1,2 @@
 # vue-app
-学习
+vue-app
